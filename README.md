@@ -13,3 +13,12 @@
 # Get Single Vibe - failure
 ![image](https://github.com/user-attachments/assets/311660ac-6375-45f5-9efc-efd247c1b1b2)
 
+# Assignment 2
+//1.
+//.env file not commited to git with usage of .gitignore
+//All new foders: config, models, routes, middleware
+// All files inside required: config/db.js, models/User.js, models/Vibe.js, routes/auth.js, routes/vibes.js, middleware/auth.js
+
+![image](https://github.com/user-attachments/assets/3be9c20f-aeee-4460-801d-2608eeba56c9)
+
+
